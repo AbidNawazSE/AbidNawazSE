@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbidNawazSE Frontend Web Developer
+- 👋 Hi, I’m Abid Nawaz, Frontend Web Developer
 - 👀 I’m interested in Full Stack Developement
 - 🌱 I’m currently learning Backend Basics
 - ⚡ Fun fact: Frontend Dev must be abide by the basics of backend developement 
